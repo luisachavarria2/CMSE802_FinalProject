@@ -4,8 +4,21 @@ Python== 3.11.11
 Numpy ==1.23.5
 unnittest2== 1.1.0
 
+
 Other libraries: 
 
 maplotlib.pyplot
+scipy.optimize 
+sklearn.linear_model 
 
+Install the following modules: 
+
+from data_validator import check_data_validity
+from linear_lsf import linear_model
+from linear_lsf import fit_and_plot_linear_model
+from vegards_law import run_analysis
+from comparison import compare_models
+from generator import generate_atoms
+from volume_unitcell import create_plots
+from fe_calculation import estimate_fe
 
