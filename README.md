@@ -29,3 +29,4 @@ This repository has the following structure:
 Installation:
 * The data is contained in the file Fe_volume_fp.csv
 * The modules required for installation are in the file requirements.txt as well as the dependencies and versions
+* Download all the modules contained in the folder src and run them using the notebook Hw3_analysis_visualization.ipynb
