@@ -1,4 +1,4 @@
-# cmse802_project_hw3
+# CMSE 802 - Final Project
 
 # Modeling of volume change with iron in ferropericlase (Mg,Fe)O 
 
