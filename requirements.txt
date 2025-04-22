@@ -10,15 +10,21 @@ Other libraries:
 maplotlib.pyplot
 scipy.optimize 
 sklearn.linear_model 
+tabulate
+matplotlib.patches
+pandas
 
 Install the following modules: 
 
 from data_validator import check_data_validity
-from linear_lsf import linear_model
-from linear_lsf import fit_and_plot_linear_model
-from vegards_law import run_analysis
-from comparison import compare_models
-from generator import generate_atoms
-from volume_unitcell import create_plots
+from vegards_volume import vegards_volume
+from vegards_volume import plot_vegards_volume
+from linear_lsf_confidence import linear_model
+from linear_lsf_confidence import fit_and_plot_linear_model
+from lsf_vegard import compare_models
+from calculate_deviation import calculate_deviation_vegard
+from plot_deviation import plot_deviation_vegard
+from generator import generate_atoms 
+from volume_unitcell import create_plots_cell
 from fe_calculation import estimate_fe
 
