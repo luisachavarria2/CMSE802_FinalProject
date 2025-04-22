@@ -1,5 +1,10 @@
 ## Source
 
+Instructions:
+
+Download all the source files and store them in the same folder than the notebook and the cvs file data. 
+
+
 This folder includes all source code modules and scripts
 
 1. Data_validator: Module for the validation of the data. This module ensures that the input data meets the required criteria for analysis.
